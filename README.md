@@ -1,0 +1,1 @@
+This is a machine learning model that effectively predicts the probability of the bank granting a certain individual a loan. The model makes use of a supervised machine learning algorithm called the random forest classifier, and makes use of an imported dataset from kaggle.
